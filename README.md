@@ -2,20 +2,20 @@
 <h1>Peak Stickers</h1>
 
 ![AI-Guided Development](https://img.shields.io/badge/AI--Guided-Development-8A2BE2?style=flat)  
-**English** · [Español](README_ES.md)
+**English** · [Español](https://github.com/ema28pro/Peak-Stickers/blob/main/README_ES.md)
 </div>
 
 
-[![Multiple poses generated in the output folder](img/Captura%20de%20pantalla%202026-11-22%20190435.png)](./img/examples/)
+[![Multiple poses generated in the output folder](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/Captura%20de%20pantalla%202026-11-22%20190435.png)](https://github.com/ema28pro/Peak-Stickers/tree/main/img/examples)
 
 | I'm Here | Shrug | Idle 2 | BackFlip |
 | :---: | :---: | :---: | :---: |
-| ![I'm Here](img/01_ImHere.png) | ![Shrug](img/01_Shrug.png) | ![Idle 2](img/02_Idle2.png) | ![BackFlip](img/22_BackFlip.png) |
+| ![I'm Here](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/01_ImHere.png) | ![Shrug](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/01_Shrug.png) | ![Idle 2](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/02_Idle2.png) | ![BackFlip](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/22_BackFlip.png) |
 
 
 Generate **PNG stickers of your PEAK character with their outfit**, in **every pose**, with a **transparent background** and the classic **white sticker border**.
 
-You can see all available poses in the [`img/examples`](img/examples/) folder.
+You can see all available poses in the [`img/examples`](https://github.com/ema28pro/Peak-Stickers/tree/main/img/examples) folder.
 
 ## How does it work?
 
@@ -26,7 +26,7 @@ You can see all available poses in the [`img/examples`](img/examples/) folder.
 
 Each sticker is exported in high quality (rendered at 2× and downscaled), with no background and a smooth white border around the character.
 
-![Generate stickers button in the customization notebook](img/vista_previa.png)
+![Generate stickers button in the customization notebook](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/vista_previa.png)
 
 ## Requirements
 

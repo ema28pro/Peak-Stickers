@@ -2,20 +2,20 @@
 <h1>Peak Stickers</h1>
 
 ![Desarrollo guiado por IA](https://img.shields.io/badge/AI--Guided-Development-8A2BE2?style=flat)  
-[English](README.md) · **Español** 
+[English](https://github.com/ema28pro/Peak-Stickers/blob/main/README.md) · **Español** 
 </div>
 
 
-[![Varias poses generadas en la carpeta de salida](img/Captura%20de%20pantalla%202026-11-22%20190435.png)](./img/examples/)
+[![Varias poses generadas en la carpeta de salida](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/Captura%20de%20pantalla%202026-11-22%20190435.png)](https://github.com/ema28pro/Peak-Stickers/tree/main/img/examples)
 
 | I'm Here | Shrug | Idle 2 | BackFlip |
 | :---: | :---: | :---: | :---: |
-| ![I'm Here](img/01_ImHere.png) | ![Shrug](img/01_Shrug.png) | ![Idle 2](img/02_Idle2.png) | ![BackFlip](img/22_BackFlip.png) |
+| ![I'm Here](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/01_ImHere.png) | ![Shrug](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/01_Shrug.png) | ![Idle 2](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/02_Idle2.png) | ![BackFlip](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/22_BackFlip.png) |
 
 
 Genera **stickers PNG de tu personaje de PEAK con su ropa**, en **todas las poses**, con **fondo transparente** y el típico **borde blanco** de sticker.
 
-Puedes ver todas las poses disponibles en la carpeta [`img/examples`](img/examples/).
+Puedes ver todas las poses disponibles en la carpeta [`img/examples`](https://github.com/ema28pro/Peak-Stickers/tree/main/img/examples).
 
 ## ¿Cómo funciona?
 
@@ -26,7 +26,7 @@ Puedes ver todas las poses disponibles en la carpeta [`img/examples`](img/exampl
 
 Cada sticker sale en alta calidad (renderizado a 2× y reescalado), sin fondo, con borde blanco suave alrededor del personaje.
 
-![Botón Generar stickers en la libreta](img/vista_previa.png)
+![Botón Generar stickers en la libreta](https://raw.githubusercontent.com/ema28pro/Peak-Stickers/main/img/vista_previa.png)
 
 ## Requisitos
 
