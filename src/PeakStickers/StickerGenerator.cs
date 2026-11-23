@@ -7,7 +7,7 @@ using System.Reflection;
 using UnityEngine;
 using UnityEngine.Rendering.Universal;
 
-namespace StickerPoses;
+namespace PeakStickers;
 
 /// <summary>
 /// Renders the customization passport dummy with every pose and saves each

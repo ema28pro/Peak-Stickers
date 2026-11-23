@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace StickerPoses;
+namespace PeakStickers;
 
 /// <summary>
 /// Small helpers to build rounded, good-looking runtime UI without needing

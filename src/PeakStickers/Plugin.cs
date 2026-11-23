@@ -3,7 +3,7 @@ using BepInEx;
 using BepInEx.Configuration;
 using BepInEx.Logging;
 
-namespace StickerPoses;
+namespace PeakStickers;
 
 /// <summary>
 /// Adds a button to the customization passport that generates

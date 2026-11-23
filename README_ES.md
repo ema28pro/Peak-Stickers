@@ -34,7 +34,7 @@ Cada sticker sale en alta calidad (renderizado a 2× y reescalado), sin fondo, c
 
 ## Configuración
 
-Opcional: edita `BepInEx/config/ema28pro.StickerPoses.cfg`
+Opcional: edita `BepInEx/config/ema28pro.PeakStickers.cfg`
 
 | Opción | Por defecto | Descripción |
 | --- | --- | --- |

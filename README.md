@@ -34,7 +34,7 @@ Each sticker is exported in high quality (rendered at 2× and downscaled), with 
 
 ## Configuration
 
-Optional: edit `BepInEx/config/ema28pro.StickerPoses.cfg`
+Optional: edit `BepInEx/config/ema28pro.PeakStickers.cfg`
 
 | Option | Default | Description |
 | --- | --- | --- |

@@ -4,15 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
-## [0.1.1] - 2026-11-23
-
-### Changed
-
-- Thunderstore description translated to English.
-- README image links are now absolute URLs, so they render correctly on Thunderstore.
-- Changelog translated to English.
-
-## [0.1.0] - 2026-11-22
+## [0.1.0] - 2026-11-23
 
 ### Added
 
@@ -25,3 +17,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Automatic per-pose camera framing (nothing gets cut off) and auto-crop to fill the image.
 - Per-pose sample frame configuration (`SampleTimes`), tuned per animation by default.
 - Options: output folder, resolution, border width, include idles, open folder when done.
+- README images use absolute URLs so they render on Thunderstore; English store description.

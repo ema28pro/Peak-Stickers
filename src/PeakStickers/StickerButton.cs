@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace StickerPoses;
+namespace PeakStickers;
 
 /// <summary>
 /// "Generar stickers" control panel injected into the customization passport:
@@ -75,7 +75,7 @@ public class StickerButton : MonoBehaviour
         var font = manager.nameText != null ? manager.nameText.font : null;
 
         // ---- Panel root ----------------------------------------------------
-        var go = new GameObject("StickerPosesPanel", typeof(RectTransform));
+        var go = new GameObject("PeakStickersPanel", typeof(RectTransform));
         var rt = (RectTransform)go.transform;
         rt.SetParent(host, worldPositionStays: false);
         rt.anchorMin = new Vector2(1f, 1f);
