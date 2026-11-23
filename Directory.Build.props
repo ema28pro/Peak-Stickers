@@ -17,7 +17,7 @@
 
   <!-- Shared Thunderstore metadata -->
   <PropertyGroup>
-    <ThunderstoreTeam>ema28pro</ThunderstoreTeam>
+    <ThunderstoreTeam>CoolShitREN</ThunderstoreTeam>
     <!-- TODO: Add a link to your mod repository here (optional) -->
     <RepositoryUrl>https://github.com/ema28pro/Peak-Stickers</RepositoryUrl>
   </PropertyGroup>
