@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Peak Stickers</h1>
 
+![AI-Guided Development](https://img.shields.io/badge/AI--Guided-Development-8A2BE2?style=flat)  
 **English** · [Español](README_ES.md)
 </div>
 
