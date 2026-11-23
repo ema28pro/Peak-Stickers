@@ -2,6 +2,7 @@
 <h1>Peak Stickers</h1>
 
 ![Desarrollo guiado por IA](https://img.shields.io/badge/AI--Guided-Development-8A2BE2?style=flat)  
+[![Thunderstore](https://img.shields.io/badge/Thunderstore-PeakStickers-7B4DF0?style=flat)](https://thunderstore.io/c/peak/p/CoolShitREN/PeakStickers)  
 [English](https://github.com/ema28pro/Peak-Stickers/blob/main/README.md) · **Español** 
 </div>
 
