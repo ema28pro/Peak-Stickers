@@ -2,8 +2,7 @@
 <h1>Peak Stickers</h1>
 
 ![AI-Guided Development](https://img.shields.io/badge/AI--Guided-Development-8A2BE2?style=flat) 
-[![Thunderstore](https://img.shields.io/badge/Thunderstore-PeakStickers-7affd1?style=flat)](https://thunderstore.io/c/peak/p/CoolShitREN/PeakStickers)  
-[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fthunderstore.io%2Fapi%2Fexperimental%2Fpackage%2FCoolShitREN%2FPeakStickers%2F&query=latest.downloads&label=downloads&color=7affd1&style=flat&cacheSeconds=300)](https://thunderstore.io/c/peak/p/CoolShitREN/PeakStickers)  
+[![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fthunderstore.io%2Fapi%2Fexperimental%2Fpackage%2FCoolShitREN%2FPeakStickers%2F&query=latest.downloads&label=Downloads&color=7affd1&style=flat&cacheSeconds=300)](https://thunderstore.io/c/peak/p/CoolShitREN/PeakStickers)  
 **English** · [Español](https://github.com/ema28pro/Peak-Stickers/blob/main/README_ES.md)
 </div>
 
